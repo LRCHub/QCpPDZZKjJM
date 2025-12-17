@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "angel fall",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-17T12:02:26.233057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angel Fall",
+      "artist": "Texas Hippie Coalition",
+      "has_synced": true,
+      "path": "select/01_Angel_Fall_Texas_Hippie_Coalition.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "angel fall",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_angel_fall_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Angel Fall",
+      "artist": "Texas Hippie Coalition",
+      "has_synced": true,
+      "path": "select/03_Angel_Fall_Texas_Hippie_Coalition.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "angel fall",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_angel_fall_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
